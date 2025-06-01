@@ -1,1 +1,1 @@
-# duut
+# Project Helper CLI
